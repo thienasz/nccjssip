@@ -1,0 +1,27 @@
+#chat_content {
+    height: 200px;
+    border: 1px solid gray;
+    overflow: scroll;
+    padding-top: 10px;
+}
+
+#video_wrapper {
+    height: 200px;
+    border: 1px solid gray;
+    text-align: center;
+}
+
+.msg-content {
+    background: gray;
+    padding: 0.5em;
+    border-radius: 5px;
+    margin: 0.3em;
+}
+
+.text-right .msg-content {
+
+}
+
+.text-left .msg-content {
+    background: #9b9b9b;
+}
